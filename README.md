@@ -9,7 +9,7 @@ Sou formado no curso Técnico em Redes de Computadores pelo IFMA e, atualmente, 
       <a href="https://github.com/MatheusVBP?tab=followers">
          <img alt="Seguidores" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MatheusVBP?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=seguidores&logoColor=white"/></a>
       <a href="https://github.com/MatheusVBP?tab=repositories&sort=stargazers">
-         <img alt="Total de Estrelas" title="Total de Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MatheusVBP?color=f0bc1f&style=for-the-badge&labelColor=yellow&logo=star&label=Estrelas"/></a>
+         <img alt="Total de Estrelas" title="Total de Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MatheusVBP?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
 </p>
 
 ---
