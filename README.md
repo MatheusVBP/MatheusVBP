@@ -16,6 +16,7 @@ Sou formado no curso Técnico em Redes de Computadores pelo IFMA e, atualmente, 
 
 ### 📚 Linguagens e Tecnologias
 
+<div align="left">
 <img 
 align="left"
 alt="HTML"
@@ -38,6 +39,7 @@ title="JavaScript"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
+<img width="8" />
 <img
 align="left"
 alt="TypeScript"
@@ -45,6 +47,7 @@ title="TypeScript"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
+<img width="8" />
 <img 
 align="left"
 alt="Nodejs"
@@ -52,6 +55,7 @@ title="Nodejs"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
+<img width="8" />
 <img
 align="left"
 alt="Tailwind"
@@ -59,6 +63,7 @@ title="Tailwind"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
+<img width="8" />
 <img 
 align="left"
 alt="Bootstrap"
@@ -66,6 +71,7 @@ title="Bootstrap"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
+<img width="8" />
 <img 
 align="left"
 alt="Vscode"
@@ -73,6 +79,7 @@ title="Vscode"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
+<img width="8" />
 <img 
 align="left"
 alt="Git"
@@ -80,37 +87,27 @@ title="Git"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-          
-<br/>
-<br/>
+</div>
 
 ### 📊 Estatísticas
-
+<br>
+<div style="text-align: center;" align="center">
 <img 
-align="left"
 alt="GitHub Status"
-height="200"
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=MatheusVBP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+padding-right="10px"
+src="https://github-readme-stats.vercel.app/api?username=MatheusVBP&hide_title=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&line_height=25&hide=issues&bg_color=000&title_color=1b52de&text_color=FFF&border_radius=3&border_color=1b52de&icon_color=1b52de&theme=jolly"
 />
 <img 
-align="left"
-alt="GitHub Status"
-height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVBP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+alt="GitHub Linguagens"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVBP&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=1b52de&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=1b52de&count_private=true"
 />
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusVBP/MatheusVBP/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusVBP/MatheusVBP/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusVBP/MatheusVBP/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-
-
 
 
 
