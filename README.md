@@ -88,6 +88,8 @@ width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 </div>
+<br>
+<br>
 
 ### 📊 Estatísticas
 <br>
