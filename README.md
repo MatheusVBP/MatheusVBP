@@ -74,6 +74,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 <img width="8" />
 <img 
 align="left"
+alt="MySQL"
+title="MySQL"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img width="8" />
+<img 
+align="left"
 alt="Vscode"
 title="Vscode"
 width="30px"
