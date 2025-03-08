@@ -11,3 +11,17 @@ Sou formado no curso Técnico em Redes de Computadores pelo IFMA e, atualmente, 
       <a href="https://github.com/MatheusVBP?tab=repositories&sort=stargazers">
          <img alt="Total de Estrelas" title="Total de Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MatheusVBP?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
    </p>
+
+---
+
+###📚 Linguagens e Tecnologias
+
+
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>        
