@@ -93,8 +93,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ### 📊 Estatísticas
 
-          
-          
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusVBP&show_icons=true&theme=tokyonight)
 
 
 
