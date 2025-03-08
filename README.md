@@ -16,7 +16,6 @@ Sou formado no curso Técnico em Redes de Computadores pelo IFMA e, atualmente, 
 
 ### 📚 Linguagens e Tecnologias
 
-
 <img
 align="left"
 alt="HTML"
@@ -25,73 +24,65 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />        
-
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="CSS"
+title="CSS"
 width="30px"
 style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
-
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="JavaScript"
+title="JavaScript"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-
 <img
 align="left"
-alt="HTML"
-title="HTML"
+alt="TypeScript"
+title="TypeScript"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
-
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="Nodejs"
+title="Nodejs"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
-
 <img
 align="left"
-alt="HTML"
-title="HTML"
+alt="Tailwind"
+title="Tailwind"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
-
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="Bootstrap"
+title="Bootstrap"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
-
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="Vscode"
+title="Vscode"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
-
 <img 
 align="left"
-alt="HTML"
-title="HTML"
+alt="Git"
+title="Git"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
