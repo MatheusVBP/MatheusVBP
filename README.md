@@ -16,86 +16,76 @@ Sou formado no curso Técnico em Redes de Computadores pelo IFMA e, atualmente, 
 
 ### 📚 Linguagens e Tecnologias
 
-
+<div align="left">
 <img 
-align="left"
 alt="HTML"
 title="HTML"
-width="30px"
+width="25px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img width="8" />
 <img 
-align="left"
 alt="CSS"
 title="CSS"
-width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 <img width="8" />
 <img 
-align="left"
 alt="JavaScript"
 title="JavaScript"
-width="30px"
+width="25px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img width="8" />
 <img
-align="left"
 alt="TypeScript"
 title="TypeScript"
-width="30px"
+width="25px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
 <img width="8" />
 <img 
-align="left"
 alt="Nodejs"
 title="Nodejs"
-width="30px"
+width="25px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
 <img width="8" />
 <img 
-align="left"
 alt="Bootstrap"
 title="Bootstrap"
-width="30px"
+width="25px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
 <img width="8" />
 <img
-align="left"
 alt="Tailwind"
 title="Tailwind"
-width="30px"
+width="25px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img width="8" />
 <img 
-align="left"
 alt="MySQL"
 title="MySQL"
-width="30px"
+width="25px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img width="8" />
 <img 
-align="left"
 alt="Vscode"
 title="Vscode"
-width="30px"
+width="25px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <img width="8" />
 <img 
-align="left"
 alt="Git"
 title="Git"
-width="30px"
+width="25px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-
+</div>
 <br>
 
 ### 📊 Estatísticas
