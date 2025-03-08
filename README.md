@@ -56,20 +56,20 @@ width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
 <img width="8" />
-<img
-align="left"
-alt="Tailwind"
-title="Tailwind"
-width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-<img width="8" />
 <img 
 align="left"
 alt="Bootstrap"
 title="Bootstrap"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+/>
+<img width="8" />
+<img
+align="left"
+alt="Tailwind"
+title="Tailwind"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img width="8" />
 <img 
