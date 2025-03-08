@@ -29,14 +29,14 @@ align="left"
 alt="CSS"
 title="CSS"
 width="30px"
-style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+style="padding-right: 10px; padding-botton: 5px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 <img 
 align="left"
 alt="JavaScript"
 title="JavaScript"
 width="30px"
-style="padding-right: 10px;"
+style="padding-right: 10px; padding-botton: 5px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img
@@ -44,7 +44,7 @@ align="left"
 alt="TypeScript"
 title="TypeScript"
 width="30px"
-style="padding-right: 10px;"
+style="padding-right: 10px; padding-botton: 5px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
 <img 
@@ -52,7 +52,7 @@ align="left"
 alt="Nodejs"
 title="Nodejs"
 width="30px"
-style="padding-right: 10px;"
+style="padding-right: 10px; padding-botton: 5px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
 <img
@@ -60,7 +60,7 @@ align="left"
 alt="Tailwind"
 title="Tailwind"
 width="30px"
-style="padding-right: 10px;"
+style="padding-right: 10px; padding-botton: 5px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img 
@@ -68,7 +68,7 @@ align="left"
 alt="Bootstrap"
 title="Bootstrap"
 width="30px"
-style="padding-right: 10px;"
+style="padding-right: 10px; padding-botton: 5px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
 <img 
@@ -76,7 +76,7 @@ align="left"
 alt="Vscode"
 title="Vscode"
 width="30px"
-style="padding-right: 10px;"
+style="padding-right: 10px; padding-botton: 5px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <img 
@@ -84,14 +84,14 @@ align="left"
 alt="Git"
 title="Git"
 width="30px"
-style="padding-right: 10px;"
+style="padding-right: 10px; padding-botton: 5px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
           
+<br>
+<br>
 
-
-            
-
+### 📊 Estatísticas
 
           
           
