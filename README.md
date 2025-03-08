@@ -91,9 +91,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 ### 📊 Estatísticas
 <br>
 <div style="text-align: center;" align="center">
-<img alt="GitHub Status" padding-right="10px" src="https://github-readme-stats.vercel.app/api?username=MatheusVBP&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&locale=pt-br&line_height=25&hide=issues&bg_color=000&title_color=1b52de&text_color=FFF&border_radius=3&border_color=1b52de&icon_color=1b52de&theme=jolly"
+<img alt="GitHub Status" padding-right="10px" src="https://github-readme-stats.vercel.app/api?username=MatheusVBP&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&locale=pt-br&line_height=25&hide=issues&bg_color=000&title_color=1b52de&text_color=FFF&border_radius=3&border_color=1b52de&icon_color=1b52de&theme=jolly&cache_seconds=0"
 />
-<img alt="GitHub Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVBP&line_height=10&card_width=290&layout=compact&hide_title=false&include_all_commits=true&count_private=true&langs_count=9&show_icons=true&title_color=1b52de&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=1b52de&count_private=true&locale=pt-br"
+<img alt="GitHub Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVBP&line_height=10&card_width=290&layout=compact&hide_title=false&include_all_commits=true&count_private=true&langs_count=9&show_icons=true&title_color=1b52de&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=1b52de&count_private=true&locale=pt-br&cache_seconds=0"
 />
 </div>
 
