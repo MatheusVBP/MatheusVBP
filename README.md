@@ -22,13 +22,15 @@ alt="HTML"
 title="HTML"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/> 
+/>
+<img width="8" />
 <img 
 align="left"
 alt="CSS"
 title="CSS"
 width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+<img width="8" />
 <img 
 align="left"
 alt="JavaScript"
@@ -97,3 +99,18 @@ alt="GitHub Status"
 height="200"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVBP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusVBP/MatheusVBP/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusVBP/MatheusVBP/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusVBP/MatheusVBP/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+
+
+
+
+
