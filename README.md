@@ -94,10 +94,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
   <img alt="GitHub Stats" src="./profile/stats.svg" />
   <img alt="GitHub Linguagens" src="./profile/top-langs.svg" />
 </div>
-<div align="center">
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/MatheusVBP/MatheusVBP/main/profile/stats.svg" />
-  <img alt="GitHub Linguagens" src="https://raw.githubusercontent.com/MatheusVBP/MatheusVBP/main/profile/top-langs.svg" />
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusVBP/MatheusVBP/output/github-contribution-grid-snake-dark.svg">
