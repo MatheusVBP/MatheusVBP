@@ -91,10 +91,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 ### 📊 Estatísticas
 <br>
 <div align="center">
-  <img alt="GitHub Stats"
-    src="https://github-readme-stats-2qyylrvdn.vercel.app/api?username=MatheusVBP&hide_title=true&show_icons=true&count_private=true&locale=pt-br&line_height=25&hide=issues&bg_color=000000&title_color=1b52de&text_color=FFFFFF&border_radius=3&border_color=1b52de&icon_color=1b52de&theme=jolly" />
-  <img alt="GitHub Linguagens"
-    src="https://github-readme-stats-2qyylrvdn.vercel.app/api/top-langs/?username=MatheusVBP&layout=compact&langs_count=9&title_color=1b52de&bg_color=000000&text_color=8B8B8B&border_radius=3&border_color=1b52de&locale=pt-br" />
+  <img alt="GitHub Stats" src="./profile/stats.svg" />
+  <img alt="GitHub Linguagens" src="./profile/top-langs.svg" />
 </div>
 
 <picture align="center">
